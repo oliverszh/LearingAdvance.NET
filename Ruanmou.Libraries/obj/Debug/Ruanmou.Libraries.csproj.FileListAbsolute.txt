@@ -1,6 +1,0 @@
-D:\ruanmou\online12\20181218Advanced12Course4Libraries\Ruanmou.Libraries\Ruanmou.Libraries\bin\Debug\Ruanmou.Libraries.exe.config
-D:\ruanmou\online12\20181218Advanced12Course4Libraries\Ruanmou.Libraries\Ruanmou.Libraries\bin\Debug\Ruanmou.Libraries.exe
-D:\ruanmou\online12\20181218Advanced12Course4Libraries\Ruanmou.Libraries\Ruanmou.Libraries\bin\Debug\Ruanmou.Libraries.pdb
-D:\ruanmou\online12\20181218Advanced12Course4Libraries\Ruanmou.Libraries\Ruanmou.Libraries\obj\Debug\Ruanmou.Libraries.csproj.CoreCompileInputs.cache
-D:\ruanmou\online12\20181218Advanced12Course4Libraries\Ruanmou.Libraries\Ruanmou.Libraries\obj\Debug\Ruanmou.Libraries.exe
-D:\ruanmou\online12\20181218Advanced12Course4Libraries\Ruanmou.Libraries\Ruanmou.Libraries\obj\Debug\Ruanmou.Libraries.pdb
